@@ -1,37 +1,18 @@
 ---
 title: Drafting up our first MVP draft spec.
 summary: |
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-  We were on [Hacker News](https://news.ycombinator.com/). Also,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat.
+  A simple and preliminary draft up of our app which primarily provides peer-to-peer services for Refugees in Europe.
 news:
-  - title: Got our *first* customer!
+  - title: Got our *first* MVP draft up!
     kind: joy
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-  - title: Can't get client side API working yet
+
+  - title: We still have our Social to do 2 to do.
     kind: struggle
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-  - title: Can't get client side API working yet
-    kind: learning
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
+
 
 ---
 
-'''Who is your customer or customers?:'''
+__Who is your customer or customers?:__
 - Refugees in Europe
 
 What is their pain?:
