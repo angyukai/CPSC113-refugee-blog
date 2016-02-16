@@ -1,11 +1,11 @@
 ---
 name: Refugees
 app:
-  name: Snap Chat
-  url: http://snapchat.com
-  twitter_username: snapchat
+  name: Refugee Helper (TBC)
+  url: TBC
+  twitter_username: TBC
   repo: https://github.com/angyukai/CPSC113-refugee-blog.git
-  tagline: Engagement metrics done right
+  tagline: A Safe Refuge for All
   value: |
     <INSERT REFUGEE APP DESCRIPTION HERE>
 members:
