@@ -11,29 +11,31 @@ news:
 ---
 
 __Who is your customer or customers?:__
-4.1 Million refugees have fled Syria since the beginning of the civil war in 2011. While a large number of them have emigrated to Europe and neighbouring countries. In the USA at the moment, there are 1500 Syrian refugees, with the State Department claiming that it could accept up to 8000 more this year. 
+ 
+- 4.1 Million refugees have fled Syria since the beginning of the civil war in 2011. While a large number of them have emigrated to Europe and neighbouring countries. In the USA at the moment, there are 1500 Syrian refugees, with the State Department claiming that it could accept up to 8000 more this year. 
 
-In the US, there are refugees from other countries as well. The three countries with the largest number of refugees hailing from them were Burma (118,476), Iraq (93,788) and Bhutan (70,341). Below is chart of the top 20 countries that refugees hailed from.
+- In the US, there are refugees from other countries as well. The three countries with the largest number of refugees hailing from them were Burma (118,476), Iraq (93,788) and Bhutan (70,341). Below is chart of the top 20 countries that refugees hailed from.
 
-There are approximately 487 Syrian refugees in the state of Connecticut, who will function as our pilot users, and based on our learnings from them, we will expand to address issues.
+- There are approximately 487 Syrian refugees in the state of Connecticut, who will function as our pilot users, and based on our learnings from them, we will expand to address issues.
 
-There are also several organizations, both governmental and NGOs who are interested in providing assistance to the refugee population. The US Government spends approximately 1.2 billion on refugees, which is approximately 7000-14000 per refugee. Our goal is to connect refugees living in the United States with each other to establish a peer support network and connect them to organizations willing to help them emotionally, logistically and financially.
+- There are also several organizations, both governmental and NGOs who are interested in providing assistance to the refugee population. The US Government spends approximately 1.2 billion on refugees, which is approximately 7000-14000 per refugee. Our goal is to connect refugees living in the United States with each other to establish a peer support network and connect them to organizations willing to help them emotionally, logistically and financially.
 
 __What is their pain?:__
-For the first 90 days after refugees arrive, the contracted resettlement agency is responsible for providing them with food, shelter, medical care and other services. Beyond these 90 days, however, refugees are on their own in a foreign country with no peer support from fellow Syrian natives and few friends. Beyond these 90 days, refugees may suffer from issues such as not knowing where to find affordable medical facilities, clothing, housing, food i.e. useful local information. 
+ 
+- For the first 90 days after refugees arrive, the contracted resettlement agency is responsible for providing them with food, shelter, medical care and other services. Beyond these 90 days, however, refugees are on their own in a foreign country with no peer support from fellow Syrian natives and few friends. Beyond these 90 days, refugees may suffer from issues such as not knowing where to find affordable medical facilities, clothing, housing, food i.e. useful local information. 
 
-The response to these domestic refugees is often "Not in my backyard!" Resentment and xenophobia towards refugees makes it difficult for them to assimilate. A cultural and language barrier also makes it difficult for refugees to integrate and assimilate in the US and Europe.
+- The response to these domestic refugees is often "Not in my backyard!" Resentment and xenophobia towards refugees makes it difficult for them to assimilate. A cultural and language barrier also makes it difficult for refugees to integrate and assimilate in the US and Europe.
 
 __What kind of software do you think will solve their pain?:__
-For our MVP, we plan to prepare a simple wordpress landing site which provides information on health-care, accommodations or services provided for refugees in the United States, with a focus on New Haven and Connecticut state. Using Google analytics, we will track how many people visit the site, and what pages they engage with the most (measured using time spent on page, number of shares of the particular page/article, number of links on page clicked, etc) and use it to determine which issues are of greatest importance.
-We will also provide a direct channel for feedback and queries so that people can directly email us with their questions and comments, allowing us further insight into how to improve the site and what features to add.
+- For our MVP, we plan to prepare a simple wordpress landing site which provides information on health-care, accommodations or services provided for refugees in the United States, with a focus on New Haven and Connecticut state. Using Google analytics, we will track how many people visit the site, and what pages they engage with the most (measured using time spent on page, number of shares of the particular page/article, number of links on page clicked, etc) and use it to determine which issues are of greatest importance.
+- We will also provide a direct channel for feedback and queries so that people can directly email us with their questions and comments, allowing us further insight into how to improve the site and what features to add.
 
 __How do you know these things?:__
-Primary sources: 
+\n Primary sources: 
 - We will be conducting an interview with a caseworker who has been helping refugees find temporary shelter in New Haven, as well as provide us with in-depth information about the daily struggles and pressing concerns of the refugees that we may be able to address
 - Upon establishing contact we may be able to talk to some of the refugees in Connecticut to gather first-hand experience, as well as second-hand experience about other refugees elsewhere in the United States.
 - First hand experience
-Secondary sources:
+\n Secondary sources:
 - News reports on refugees
 - Accounts of people on the ground and documented interviews with refugees.
 
