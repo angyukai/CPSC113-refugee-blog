@@ -39,6 +39,16 @@ To update the blog, you'll be editing and adding `.yaml` files in the
 to customize `data/team.yaml` to correspond to your team, rather than
 the demo data with which we've populated it.
 
+##Adding updates
+1. cd to 'CPSC113-refugee-blog/data/updates' directory
+2. create a new directory in the folder, e.g. 'mkdir week05'
+3. cd into the new directory and create two files named 'update.yaml' and 'canvas.yaml' - update.yaml is the file for general updates of our project and canvas.yaml is for our LEAN business model canvas. (refer to previous posts for format.)
+
+
+##Deploying blog
+1. git add and commit all changes
+2. push to the heroku github: 'git push heroku master'
+
 ## Deploying your blog
 
 Go to herokuapp.com and log in or register an account if you have not already done so.
