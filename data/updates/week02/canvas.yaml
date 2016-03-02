@@ -49,7 +49,7 @@ problem:
 
 cost_structure: # ... etc
 
-  - title: Hosting (currently $30/month on Heroku)
+  - title: Hosting (currently free on Heroku)
     invalidated: false # whether this has been invalidated. Used to show change
     confidence: 8
     description: |
