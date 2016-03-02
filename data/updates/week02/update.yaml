@@ -1,9 +1,9 @@
 ---
 title: Interviews with IRIS staff/refugees and pivoting
 summary: |
-    Had our first interviews with IRIS staff and refugees in New Haven. Learnt that there already is an existing app which is very similar to our idea.
+    Discovered potential problems 
 news:
-  - title: Got our *second* MVP draft up!
+  - title: Disco
     kind: joy
 
 
@@ -12,28 +12,33 @@ news:
 
 __General Updates__
 
-We conducted interviews with Chris, the head of IRIS, and Akram, a refugee who is currently working part-time as a case-worker for IRIS. From the information provided by the both of them and anecdotal accounts from other refugees who were present during the interview, the language barrier (English) seems to be the biggest problem they face in their integration into the American society. We also learnt from Chris that there is currently another available app called Kricket, which "is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information." Since our original idea was very similar to the function of this app, we might have to pivot our project to tackle an aspect not covered by Kricket.
+We conducted interviews with Chris, the head of IRIS, and Akram, a refugee who is currently working part-time as a case-worker for IRIS. From the information provided by the both of them and anecdotal accounts from other refugees who were present during the interview, the language barrier (English) seems to be the biggest problem they face in their integration into the American society. We also learnt from Chris that there is currently another available app called Kricket, which "is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information." Since our original idea was very similar to the function of this app, we might have to pivot our project to tackle an aspect not covered by Kricket. Will follow up after a full team meeting.
+
+__Top problems refugees face__:
+- Language Barrier
+- Employment Difficulties
+- Isolation
  
-__The interviews with the two individuals are summarized below:__
+
  
 __Interview with Chris (summarized and paraphrased)__
 
 
 Language/Education:
-Feels that greatest problem refugees in America are facing is the language barrier, i.e. not being able to speak english.
+- Feels that greatest problem refugees in America are facing is the language barrier, i.e. not being able to speak english.
  
 Cultural Differences:
-Refugees unfamiliar with cultural norms in America. E.g. Iraqis negotiate their salary and working hours with employers on first day of work
+- Refugees unfamiliar with cultural norms in America. E.g. Iraqis negotiate their salary and working hours with employers on first day of work
  
 Refugee Community:
-Refugees relocated at fringe areas of Connecticut may feel isolated and left out from refugee population.
+- Refugees relocated at fringe areas of Connecticut may feel isolated and left out from refugee population.
  
 CT community:
-CT community generally very welcoming to refugees. Even though costs of living is higher, refugees choose to stay in CT because of the inclusive, welcoming and progressive community.
+- CT community generally very welcoming to refugees. Even though costs of living is higher, refugees choose to stay in CT because of the inclusive, welcoming and progressive community.
  
 Available support:
-IRIS, schools and community
-Kircket.
+- IRIS, schools and community
+- Kircket.
 
 
 __Interview with Akram (summarized and paraphrased)__
