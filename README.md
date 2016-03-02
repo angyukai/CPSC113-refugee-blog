@@ -1,5 +1,37 @@
 # CPSC113 Blog Starter
 
+#Yukai's README
+
+##Adding updates
+1. cd to 'CPSC113-refugee-blog/data/updates' directory
+2. create a new directory in the folder, e.g. 'mkdir week05'
+3. cd into the new directory and create two files named 'update.yaml' and 'canvas.yaml'
+4. update.yaml is simple, just write it up in yaml
+5. for canvas.yaml, refer to this: https://github.com/cpsc113-makin-babies/cpsc113_blog/blob/master/data/updates/week00/canvas.yaml for the formatting
+
+
+##Deploying updates to the blog
+1. git add and commit all changes
+2. heroku login if you haven't (i dont think you'll need to cause i'm sharing this workspace with yall)
+2. push to the heroku github: 'git push heroku master'
+3. Sit back as little gnomes in your computer and the internet make magic.
+
+
+
+
+
+#Kyle's README
+
+## Deploying your blog
+
+Go to herokuapp.com and log in or register an account if you have not already done so.
+Go to the following link https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction for a helpful tutorial on how to deploy your blog to Heroku.
+
+* Make sure you have the Heroku
+
+
+
+
 Teams in CPSC113 will turn in their weekly updates by keeping a blog. This is
 a starter blog for you. It accomplishes a few things:
 
@@ -38,23 +70,7 @@ To update the blog, you'll be editing and adding `.yaml` files in the
 `data/updates` directory. Before you get into that, you'll likely want
 to customize `data/team.yaml` to correspond to your team, rather than
 the demo data with which we've populated it.
-
-##Adding updates
-1. cd to 'CPSC113-refugee-blog/data/updates' directory
-2. create a new directory in the folder, e.g. 'mkdir week05'
-3. cd into the new directory and create two files named 'update.yaml' and 'canvas.yaml' - update.yaml is the file for general updates of our project and canvas.yaml is for our LEAN business model canvas. (refer to previous posts for format.)
-
-
-##Deploying blog
-1. git add and commit all changes
-2. push to the heroku github: 'git push heroku master'
-
-## Deploying your blog
-
-Go to herokuapp.com and log in or register an account if you have not already done so.
-Go to the following link https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction for a helpful tutorial on how to deploy your blog to Heroku.
-
-* Make sure you have the Heroku Toolbelt installed; after installing, you will be able to use Heroku's suite of commands in your terminal.
+ Toolbelt installed; after installing, you will be able to use Heroku's suite of commands in your terminal.
 * Start by logging in:
 
 `heroku login`
