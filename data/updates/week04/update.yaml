@@ -1,13 +1,75 @@
 ---
-title: Big changes
-summary: | 
-
-We have discovered that the refugee population will be an unsuitable for our project, hence we have to change a customer base.
-
-     
+title: Interviews with IRIS staff/refugees and pivoting
+summary: |
+    Discovered potential problems 
 news:
-  - title: Changing demographic group
+  - title: Disco
     kind: joy
+
+
 
 ---
 
+__General Updates__
+
+We conducted interviews with Chris, the head of IRIS, and Akram, a refugee who is currently working part-time as a case-worker for IRIS. From the information provided by the both of them and anecdotal accounts from other refugees who were present during the interview, we have identified the following to be the main problems refugees in Connecticut face right now:
+- Language Barrier __(Greatest problem)__
+- Employment Difficulties
+- Isolation
+- Cultural Difference
+
+While these problems have been identified, we also learnt from Chris that there is currently another available app called Kricket, which "is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information." Since our original idea was very similar to the function of this existing app, we might have to reconsider the function of our product and possibly pivot towards a new direction in our project. Will follow up on this after a full team meeting.
+
+
+ 
+
+ 
+__Interview with Chris (summarized and paraphrased)__
+
+
+Language/Education:
+- Feels that greatest problem refugees in America are facing is the language barrier, i.e. not being able to speak english.
+ 
+Cultural Differences:
+- Refugees unfamiliar with cultural norms in America. E.g. Iraqis negotiate their salary and working hours with employers on first day of work
+ 
+Refugee Community:
+- Refugees relocated at fringe areas of Connecticut may feel isolated and left out from refugee population.
+ 
+CT community:
+- CT community generally very welcoming to refugees. Even though costs of living is higher, refugees choose to stay in CT because of the inclusive, welcoming and progressive community.
+ 
+Available support:
+- IRIS, schools and community
+- Kircket.
+
+
+__Interview with Akram (summarized and paraphrased)__
+ 
+General profile of Akram:
+- Has been a refugee in CT for 3.5years.
+- Working part-time as a case manager in IRIS.
+- Doing an unpaid internship with Kricket
+- Has computer engineering degree and speaks fluent English.
+- Single, and feels comfortable living in CT currently.
+ 
+Education/Language:
+- Also highlighted language barrier is the greatest problem that the refugees face now.
+- Largely depends on the education status of the refugee when they come to America. Most of them only have high school or less qualifications.
+
+Cultural Differences:
+- Having different cultural values. e.g. the interactions between children and adults in America culturally different from that in Iraq.
+- Refugees may feel uncomfortable because of this cultural difference, unable to express their emotions, affecting their mental health.
+
+Employment:
+- One reason why employers don't hire refugees is their lack of private transport means (e.g. cars)
+- Zipcars too expensive to rent for day-to-day work and getting a license is very difficult. Especially because the tests are all in English (Language barrier)
+
+Legal Issues:
+- Insurance in America very difficult for refugees to understand.
+- Traffic laws are different from what they are used to in Iraq, e.g. wearing seatbelts, stopping at zebra crossings.
+
+Refugee community:
+- New refugees themselves are in a stressful environment and may not volunteer as much in IRIS.
+- However refugees do share information among themselves and support each other internally. Stated that refugees use Facebook and that there are currently FB groups for refugees.
+- Akram Personally feels that he wants to give refugees advice and help them.
