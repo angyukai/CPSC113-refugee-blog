@@ -1,75 +1,57 @@
 ---
-title: Interviews with IRIS staff/refugees and pivoting
-summary: |
-    Discovered potential problems 
+title: Big changes
+summary: | 
+
+    We have discovered that the refugee population will be an unsuitable for our project, hence we have to change a customer base.
+
+     
 news:
-  - title: Disco
+  - title: Changing demographic group
     kind: joy
-
-
 
 ---
 
-__General Updates__
+Working with refugees will be cumbersome in the near future, so ignore previous ideas. Insead, pivot into one of the two directions, 1) helping homeless people, 2) creating a web-based platform for various (low-key) dress designers in Muslim countries to sell their clothes to populations in the US.
 
-We conducted interviews with Chris, the head of IRIS, and Akram, a refugee who is currently working part-time as a case-worker for IRIS. From the information provided by the both of them and anecdotal accounts from other refugees who were present during the interview, we have identified the following to be the main problems refugees in Connecticut face right now:
-- Language Barrier __(Greatest problem)__
-- Employment Difficulties
-- Isolation
-- Cultural Difference
+__We met with representatives from the Yale Refugee Project and IRIS to be able to extract more information about refugees – both these organizations have been actively involved in the past and were able to give us valuable information.__
+- About two-thirds of the refugees in New Haven do not have smart-phones, which implies that they cannot readily access a web-based app. Most refugees do not want to identify as refugees. Using any app that is specifically designed for them means that they run the risk of giving up their identities when they sign up to use the app.
 
-While these problems have been identified, we also learnt from Chris that there is currently another available app called Kricket, which "is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information." Since our original idea was very similar to the function of this existing app, we might have to reconsider the function of our product and possibly pivot towards a new direction in our project. Will follow up on this after a full team meeting.
+- Adult refugees require a lot of time to overcome some of the salient problems in their lives – such as learning English, honing skills that will land them with better employment opportunities
 
+- After this meeting, we decided that it would not be a wise decision to go ahead with working with the New Haven refugee population. In our earlier updates, we ruled our refugee populations elsewhere since distance meant that we would not be able to directly engage with them at all. 
 
- 
+__Converstion with Kyle__
+During our conversation with Kyle we realized that it was in our best interest to begin to move past the consumer interview portion of our project, and to focus on getting some “tech” up for the purpose of this course. To gain experience with the development of a product and customer acquisition Kyle suggested we settle on an idea, create an MVP, and begin building our product as we get feedback. At this point, we have two new ideas.
 
- 
-__Interview with Chris (summarized and paraphrased)__
+__Idea 1__
 
+- Instead of working with the refugee population, we decided to shift the focus of our project towards homeless people. They are a demographic of the population that is easy to engage with, and whose members actively identify with the group. In New Haven, homeless people can often be seen begging for money on the streets, which goes to show that these people are in need of help.
 
-Language/Education:
-- Feels that greatest problem refugees in America are facing is the language barrier, i.e. not being able to speak english.
- 
-Cultural Differences:
-- Refugees unfamiliar with cultural norms in America. E.g. Iraqis negotiate their salary and working hours with employers on first day of work
- 
-Refugee Community:
-- Refugees relocated at fringe areas of Connecticut may feel isolated and left out from refugee population.
- 
-CT community:
-- CT community generally very welcoming to refugees. Even though costs of living is higher, refugees choose to stay in CT because of the inclusive, welcoming and progressive community.
- 
-Available support:
-- IRIS, schools and community
-- Kircket.
+- Our idea is to humanize the problems that homeless people face by posting pictures of selected people online along with a story that provides an insight into their struggles (similar to Humans of New York); we hope that viewers of these pictures will empathize with the homeless to help them out in small ways such that some of the “wishes” of homeless people can be fulfilled. 
+
+- Customer acquisition will be focused on college students who are the largest consumers of HONY (Humans of New York) and have expressed significant interest in learning more about impoverished communities across New haven.
+
+- For testing purposes, we will make a Facebook page where we will post individual details of New Haven’s homeless people, as well as any wish they most desire to be fulfilled. 
+
+- This would be a problem that has a lot of different opportunities for the use of tech to be part of the solution
 
 
-__Interview with Akram (summarized and paraphrased)__
- 
-General profile of Akram:
-- Has been a refugee in CT for 3.5years.
-- Working part-time as a case manager in IRIS.
-- Doing an unpaid internship with Kricket
-- Has computer engineering degree and speaks fluent English.
-- Single, and feels comfortable living in CT currently.
- 
-Education/Language:
-- Also highlighted language barrier is the greatest problem that the refugees face now.
-- Largely depends on the education status of the refugee when they come to America. Most of them only have high school or less qualifications.
+__Idea 2__
 
-Cultural Differences:
-- Having different cultural values. e.g. the interactions between children and adults in America culturally different from that in Iraq.
-- Refugees may feel uncomfortable because of this cultural difference, unable to express their emotions, affecting their mental health.
+- A large number of American Muslim women choose to follow the conservative Islamic code in terms of their dressing. However, mainstream American fashion retail outlets such as Gap, etc. only rarely offer them with any degree of variety. As a result, they are forced to seek out other options. 
 
-Employment:
-- One reason why employers don't hire refugees is their lack of private transport means (e.g. cars)
-- Zipcars too expensive to rent for day-to-day work and getting a license is very difficult. Especially because the tests are all in English (Language barrier)
+- There are some web-based fashion retail stores, such as shukronline.com. However, these stores again only offer very limited variety, charge exorbitant prices, their websites are not very user friendly, the clothes are not of the best quality, etc. Another factor to account for is the fact that the Muslim population in America is very diverse, depending on their ethnicities, women desire different types of clothing for different occasions. South Asian women typically want the traditional shalwar-kameez, while Middle-Eastern women prefer long dresses and abayas. 
 
-Legal Issues:
-- Insurance in America very difficult for refugees to understand.
-- Traffic laws are different from what they are used to in Iraq, e.g. wearing seatbelts, stopping at zebra crossings.
+- Several American Muslim women, therefore, choose to buy clothes when they visit predominantly Muslim countries, where it is not nearly as difficult as it is in America to find clothing that is in line with Islamic values. 
 
-Refugee community:
-- New refugees themselves are in a stressful environment and may not volunteer as much in IRIS.
-- However refugees do share information among themselves and support each other internally. Stated that refugees use Facebook and that there are currently FB groups for refugees.
-- Akram Personally feels that he wants to give refugees advice and help them.
+- It is not very convenient, however, that these women get to update their wardrobes only if they visit a Muslim country, or if they are able to find a friend who has either recently returned with a stock of clothes or has received a shipment from a dress-designer based in a Muslim country. 
+
+- There are also several low-key dress-designers who ship their clothes to the US periodically to have it sold in casual settings at their friends’ houses. 
+
+- At present, therefore, even though a market for high-quality, affordable and fashionable Islamic clothing exists, there is no institution to make the task easier both for dress designers as well as the buyers.
+
+- Our idea is to make a web-based portal where different designers from Muslim countries can post their designs for sale. Designers should be able to take orders, and buyers should be able to indicate specific measurements required for the dress/outfit. The website should indicate the price of the dress, as well as additional charges for shipping, etc. If the buyer wishes to specify modifications to an outfit that she wishes to order, she should be able to do so. 
+
+- For our MVP, we will be focusing on dress designers based in Pakistan because we are aware that several designers exist there who are also interested in selling their clothes in the US. 
+
+
