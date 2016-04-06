@@ -12,32 +12,32 @@ __Company name: Just Kapray Co. (Kapray is an Urdu word for ‘clothing’)__
 
 This website will allow small scale designers to market their clothing for free – the only caveat we add is that we will be charging a small commission (the exact rate of which is undecided as of now, but we will see what a suitable amount is as we get more designers to show interest) on every sale. This basically means that if designers don’t get any sales, they have nothing to lose. Since the platform exists mainly for small scale designers, we will encourage them to negotiate prices with customers based on the customers’ willingness to pay. Since this means that customers will have to engage directly with the designers (sellers), we want to create a model such that the customer and the designer can be in direct contact with each other as soon as possible. 
 
-We used strikingly to build a mockup landing page so we did not have to use any code of our own, which made it convenient and fast to build. We designed our logo and you can see it on our website. 
+# We used strikingly to build a mockup landing page so we did not have to use any code of our own, which made it convenient and fast to build. We designed our logo and you can see it on our website. 
 
-The link to the website is as follows: http://justkapray.strikingly.com
+# The link to the website is as follows: http://justkapray.strikingly.com
 
-We are publicising this landing page to get the contact information of anyone who might potentially end up buying items on our website. Later, we hope to use this contact information to spread word about new designers/updated features added to our website. 
+# We are publicising this landing page to get the contact information of anyone who might potentially end up buying items on our website. Later, we hope to use this contact information to spread word about new designers/updated features added to our website. 
 
-__Below is the general framework that we hope to build by the end of the semester:__
+# __Below is the general framework that we hope to build by the end of the semester:__
 
-While we are still in the process of building the website, we are also researching on building and refining our business model.
+# While we are still in the process of building the website, we are also researching on building and refining our business model.
 
-__Competitors__
+# __Competitors__
 
-A company doing something very similar is Meezaj – it is a Pakistani fashion startup that is providing a platform for fashion design students to showcase their collections; by doing so, it aims to help these students/recent grads establish their careers as fashion designers. It charges a 10% commission on sales from established brands, and a 25-30% commission from those who are new to the industry. The company is still in its seeding stage and has already received $500,000 worth of funding. They also have the support of two renowned arts/fashion schools in Pakistan, namely College of Home Economics and National College of Arts Question is – how are we doing something different?
+# A company doing something very similar is Meezaj – it is a Pakistani fashion startup that is providing a platform for fashion design students to showcase their collections; by doing so, it aims to help these students/recent grads establish their careers as fashion designers. It charges a 10% commission on sales from established brands, and a 25-30% commission from those who are new to the industry. The company is still in its seeding stage and has already received $500,000 worth of funding. They also have the support of two renowned arts/fashion schools in Pakistan, namely College of Home Economics and National College of Arts Question is – how are we doing something different?
 
-We can think of emulating the business model – to ensure that our new designers care about our customers, we can charge them a high commission rate to begin with. Once they are established, we can lower the commission rate – this will be good incentive for them to care about customer satisfaction? Moreover, we can charge a 5% commission instead of 10% on sales of established designers? 
+# We can think of emulating the business model – to ensure that our new designers care about our customers, we can charge them a high commission rate to begin with. Once they are established, we can lower the commission rate – this will be good incentive for them to care about customer satisfaction? Moreover, we can charge a 5% commission instead of 10% on sales of established designers? 
 
-__We can also add some exciting features to our website:__
-A “like” button with items so that designers can gauge which designs are more popular
-Once users sign up, make them fill out a profile so that we can see what type of customer likes what kinds of designs/designers – ultimately, we can provide designers with this feedback.
-Use cookies to show every user content what he/she is most interested in. 
+# __We can also add some exciting features to our website:__
+# A “like” button with items so that designers can gauge which designs are more popular
+# Once users sign up, make them fill out a profile so that we can see what type of customer likes what kinds of designs/designers – ultimately, we can provide designers with this feedback.
+# Use cookies to show every user content what he/she is most interested in. 
 
-We should also contact reputed fashion/art institutions to get their students to join us!
+# We should also contact reputed fashion/art institutions to get their students to join us!
 
-__Collecting payments__ 
+# __Collecting payments__ 
 
-Contrary to what one might think, online payment is not the easiest way to go. Instead, common methods that existing competitors such as daraz.pk use are cash on delivery, easypaisa, credit cards and bank transfers. In general, most people prefer using cash on delivery or easypaisa, which means that we run the risk of users not submitting payments once bespoke outfits are delivered. This also means that the outfits will go to waste since they are custom-made. 
-One possible solution to this is to use payload, which is a start-up that has introduced bitcoin technology to Pakistan – it is a safe and foolproof alternative to credit card payments online.
+# Contrary to what one might think, online payment is not the easiest way to go. Instead, common methods that existing competitors such as daraz.pk use are cash on delivery, easypaisa, credit cards and bank transfers. In general, most people prefer using cash on delivery or easypaisa, which means that we run the risk of users not submitting payments once bespoke outfits are delivered. This also means that the outfits will go to waste since they are custom-made. 
+# One possible solution to this is to use payload, which is a start-up that has introduced bitcoin technology to Pakistan – it is a safe and foolproof alternative to credit card payments online.
 
 
