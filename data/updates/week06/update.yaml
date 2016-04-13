@@ -1,0 +1,56 @@
+---
+title: Website and more
+summary: | 
+    We have started coding up our website from scratch are still continuing our efforts to approach more designers and find potential customers.
+news:
+  - title: Getting down to business!
+    kind: joy
+
+---
+
+After meeting the TA’s on Thursday, April 8th, we decided to focus on the following aspects this week:
+
+__Advertising__
+Contact fashion magazines/bloggers (paperazzi, hello Pakistan, Daily Times Sunday Magazine, siddysays, GT) and fashion schools in Pakistan (Home Economics, National College of Arts, Pakistan Institute of Fashion Design, Indus Valley) to get coverage
+Use social media platforms such as twitter, instagram, facebook
+We have sent emails to the ones mentioned here and we are waiting to hear back regarding how they can help us publicise our website
+
+__Payment Strategy__
+Discuss with currently signed up designers what the best way to collect payments is (easypaisa, payment on delivery, credit cards). 
+We plan to send out emails within the next few days to decide which methods we will be using
+
+__Building the website
+Landing Page and Sign-Up
+As of last week, we had a sign-up page for customers that we had built using strikingly (justkapray.strikingly.com). We used this strikingly initially since it provided us with website templates that were easy to personalize according to our needs, which made it quick to build. Since this website only had a landing page and a sign-up form, it had limited functionality; we decided to code our own version of the website by using the strikingly template as a starting point. Currently, we have designed the landing page with functioning “shop now” and “sign-up” buttons
+
+__Website functionality__
+We have decided that the layout of our website will look as follows: https://drive.google.com/a/yale.edu/file/d/0B8xtE_WROONOLTh2SlBQbnJMXzg/view?usp=sharing
+
+Mockups of some of the pages can be seen here:
+Home page:
+https://drive.google.com/file/d/0B556Q91G16kROVMzaUxPcGpEeGc/view?usp=sharing
+Item browsing: 
+The idea is that this page should look like somewhat like an instagram stream of pictures
+https://drive.google.com/file/d/0B556Q91G16kRNUljb09QaWtGbm8/view?usp=sharing
+Item page:
+https://drive.google.com/file/d/0B556Q91G16kROWhtY2FXVEFqbFU/view?usp=sharing
+Item listing:
+https://drive.google.com/file/d/0B556Q91G16kRZS1vRXU4aEhoUWs/view?usp=sharing
+Registration:
+https://drive.google.com/file/d/0B556Q91G16kRTE40SEIwNVRqREk/view?usp=sharing
+Seller’s profile:
+https://drive.google.com/file/d/0B556Q91G16kROThsMUlJYTRmeFk/view?usp=sharing
+Seller’s side:
+https://drive.google.com/file/d/0B556Q91G16kRUjFXNHlEXzQ2dFk/view?usp=sharing
+https://drive.google.com/file/d/0B556Q91G16kRalI0TjRJcTNrZ3c/view?usp=sharing
+https://drive.google.com/file/d/0B556Q91G16kROTBfY3ZiUTBxNnc/view?usp=sharing
+https://drive.google.com/file/d/0B556Q91G16kRbU16aGxYNDBlSXM/view?usp=sharing
+https://drive.google.com/file/d/0B556Q91G16kRdlVEdm01c1E2Vzg/view?usp=sharing
+https://drive.google.com/file/d/0B556Q91G16kRdExhTUpKb2Nuems/view?usp=sharing
+
+
+Also, the link to the repo of our website is here. It is still under construction and has not been hosted yet: https://github.com/angyukai/kapray
+
+__Secure Payments Online__
+April suggested we use Shopify to ensure that whatever method of online payment method we use is secure. However, we found that even though Shopify will be helpful, it is only free for the first 14 days – after that, we will have to pay a monthly fee, which is not ideal, especially since we are just starting out. 
+Instead of using Shopify, we found a similar e-commerce software, Django-Oscar, which is completely free. Oscar has to be coded into the the site, but it still provides a lot of functionality out of the box. In particular, because different designers will be entering different prices for their dresses, Oscar provides a dynamic pricing option that allows the price to be provided by an external service (i.e. the designers). We have decided to use this software, and we will be spending the next few days getting it to work. 
