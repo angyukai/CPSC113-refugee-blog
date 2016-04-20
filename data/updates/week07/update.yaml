@@ -1,0 +1,56 @@
+---
+title: More website development and business plans
+summary: | 
+    Established a viable Ecommerce third-party app to be integrated into our website and managed to gain more traction with our designers.
+news:
+  - title: Getting down to business!
+    kind: joy
+
+---
+
+After meeting the TA’s on Thursday, April 8th, we decided to focus on the following aspects this week:
+
+__Advertising__
+We have sponsored advertisement offers from two companies: Sunday Times, Paperazzi
+
+__Seller base__
+We worked on acquiring a customer base so we contacted students at a few large fashion schools in Pakistan. These include NCA, Home Economics and PIFD (Pakistan Institute of Fashion Design). So far, we have several students signed up as potential sellers on our website. In the future, we plan to have a student volunteer serve as a campus ambassador to help recruit interested students. 
+
+__Business Model__
+- Small scale, established designers – 5% commission
+- Students at fashion schools/New grads – 2530 % commission; scale down commission depending on volume of sale/customer satisfaction through rating
+
+__Payment strategy__
+- After discussions with a few customers, we think that at least for our MVP and the first few months of operation when we will be dealing with a relatively small customer base, we will be using the cash on delivery and easypaisa options. 
+
+__Website Design (Ecommerce)__
+
+- Shopify charges commission on every sale, so we decided to use Ecwid instead.
+- Ecwid is free for up to 10 products.
+- For the MVP, sellers will have to create an Ecwid account and upload their products there. Then they will provide us with the unique information of their account and we can integrate their shop seamlessly into our website.
+- This would be an interim solution until we develop a custom and robust database and UI, where sellers can log in directly into our website and upload their content there.
+- It does not charge any commission on our sales, so we can maximise our profits
+
+
+__Functionality__
+
+__Sellers:__
+- Sellers are able to upload products directly after following a link on the website, which will take them to Ecwid so that they can upload their products.
+- At Ecwid, sellers are able to upload a picture of the product (we ask that there is a model wearing the design) along with its price and a description.
+- Upon refreshing the website page, the store is updated to show the products.
+
+__Buyers:__
+- Buyers are able to sign up and create accounts on the website
+- They can browse through items which categorized by designer
+- They can place orders
+
+__While most of our website is functional as of now, we are working to improve the user (buyers and sellers) experience by making the website easier to navigate and more user friendly. You can check out the temporary domain at:__ https://boiling-retreat-26024.herokuapp.com/
+
+__Things to Consider:__
+In our communications with potential sellers, we also found that since we will be dealing with a population that is new to the working world, it is important for us to be clear in our sales model and our rules and regulations. We were asked a lot of questions regarding legal aspects, the kinds of items that sellers are allowed to sell and what our exact mission is – in order to ensure there is no miscommunication, we will be working on drafting some of the rudimentary laws that we have in mind for our company. We are looking at the policies that Etsy uses and the rules and regulations that govern sales in Pakistan. 
+
+__Questions we need to answer:__
+Will Just Kapray & Co. be selling only curated designs, or will any and all kinds of clothing items be allowed (of course, items will be limited to women’s clothing/handbags/shoes)?
+Intellectual Property rights – if designers on website are selling imitation designs and their work is unoriginal, can they reported for IP infringement? How does the process work? What will Just Kapray & Co. do to intervene?
+Shipping policy – to what extent is the company responsible for tracking individual orders, ensuring they are delivered in shape and that customers are satisfied? How are liabilities divided between the company and the sellers?
+Understand the tax policy in Pakistan – http://www.doingbusiness.org/data/exploreeconomies/pakistan/#starting-a-business
